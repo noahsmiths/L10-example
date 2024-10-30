@@ -12,7 +12,7 @@ def count():
 
     n = 0
     for i in range(1000):
-        n += i
+        n *= i
 
     # print("Done running count.")
 
